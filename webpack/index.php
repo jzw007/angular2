@@ -6,9 +6,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<base href="<?php echo dirname($_SERVER["PHP_SELF"]) . "/"; ?>" />
 
-		<title>Diceware Search</title>
+		<title>angular2</title>
 	</head>
 	<body>
-		<diceware-app>Loading&hellip;</diceware-app>
+		<angular2-app>Loading&hellip;</angular2-app>
 	</body>
 </html>
